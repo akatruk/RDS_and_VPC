@@ -1,0 +1,16 @@
+**/build
+**/out
+**/classes
+src/main/docker/*.jar
+.gradle
+.idea
+.project
+**/*.iml
+**/build-helpers
+**/*.cmd
+**/*.pyc
+.espnautomation
+.automation
+*.DS_Store*
+venv/
+.vscode/
